@@ -19,6 +19,12 @@
     // Do any additional setup after loading the view from its nib.
     self.title = @"";
     
+    //测试修改文件
+    //查看状态 git status
+    
+    //hello world
+
+    
 }
 
 - (void)didReceiveMemoryWarning {
