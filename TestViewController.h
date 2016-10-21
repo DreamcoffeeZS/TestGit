@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface TestViewController : UIViewController
-
+@property (nonatomic, copy) NSString *name;
+@property (nonatomic, assign) int age;
+@property (nonatomic, copy) NSString *job;
 @end
