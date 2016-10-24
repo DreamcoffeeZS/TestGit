@@ -19,4 +19,5 @@
 //fast forward合并看不出来曾经做过合并
 //默认都是fate forward模式
 //测试普通合并1
+//测试普通合并3
 @end
