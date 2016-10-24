@@ -14,4 +14,5 @@
 @property (nonatomic, assign) int age;
 @property (nonatomic, copy) NSString *job;
 
+//测试普通合并：修改master
 @end
