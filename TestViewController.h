@@ -15,5 +15,6 @@
 @property (nonatomic, copy) NSString *job;
 //测试普通合并：修改master
 //测试普通合并：修改dev
-
+//测试 --no-ff普通模式合并，合并后的历史有分支，
+//fast forward合并看不出来曾经做过合并
 @end
